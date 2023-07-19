@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Authentication on ASP.NET Core<br>👯 I’m looking to collaborate on Mobile Apps<br>🤝 I’m looking for help with Python API Rest Development<br>🌱 I’m currently learning JavaScript and NodeJS<br>💬 Ask me about Java<br>⚡ Fun fact I didn't dring any coffee until last year
+🔭 I’m currently working on Authentication on ASP.NET Core<br>👯 I’m looking to collaborate on Mobile Apps<br>🤝 I’m looking for help with Python API Rest Development<br>🌱 I’m currently learning JavaScript and NodeJS<br>💬 Ask me about Java<br>⚡ Fun fact I didn't drink any coffee until last year
 
 
 ## 🌐 Socials:
